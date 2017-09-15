@@ -1,2 +1,3 @@
 name: Evan Jewell
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
