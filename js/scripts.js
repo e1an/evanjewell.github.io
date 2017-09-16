@@ -1,3 +1,3 @@
 $(function(){  // $(document).ready shorthand
-  $('#monster').hide.fadeIn('slow');
+  $('#navbar').hide.fadeIn('slow');
 });
